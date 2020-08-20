@@ -206,3 +206,4 @@ It will be essential to run `conda activate learn-env` every time you start a ne
 ## Summary
 
 Congratulations! That was a lot! If you've gotten this far and everything has worked, you have successfully set up your computer with some of the primary tools you need to work as a professional data scientist!
+# Kusiko-2020
